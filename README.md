@@ -13,14 +13,15 @@ First step in analysis was to retrieve the temperature data for month of June in
   * The maximum temperature was 85 degrees 
   * The average temperature as 74 degrees 
 
-![june_stats](https://user-images.githubusercontent.com/94208810/149611195-dc5f38b0-3f45-438e-8db6-209c215bf34a.png)
+![june_stats (2)](https://user-images.githubusercontent.com/94208810/149614509-ffabca5b-0395-4078-9380-59aaffe4183d.png)
 
 ### Summary Statistics for the Month of December. 
   * The minimum temperature was 56 degrees.
   * The maximum temperature was 83 degrees. 
   * The average temperature as 71 degrees. 
 
-![december_stats](https://user-images.githubusercontent.com/94208810/149611203-cd828cee-f830-4364-8e0f-d46c13b2a7e3.png)
+![december_stats](https://user-images.githubusercontent.com/94208810/149614519-e628a70c-497b-4bae-8d46-9a74cb041e20.png)
+
 
 
 ## Deliverable 3 
