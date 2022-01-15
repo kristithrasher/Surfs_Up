@@ -9,14 +9,16 @@ First step in analysis was to retrieve the temperature data for month of June in
 ## Deliverable 1
 ### Summary Statistics for the Month of June over 7 years from June 2010 to June 2017.
 The month of June showed the minimum temperature was 64 degrees, maximum temperature was 85 and the average as 74. 
-![Screenshot (4)](https://user-images.githubusercontent.com/94208810/149610732-7b7659b9-a259-46ee-8531-74b70a9fc735.png)
+
+![june_stats](https://user-images.githubusercontent.com/94208810/149611195-dc5f38b0-3f45-438e-8db6-209c215bf34a.png)
 
 ## Deliverable 2
 ### Summary Statistics for the Month of December over 7 years from December 2010 to December 2017. 
 The Month of December showed the minimum temperature of 56 degrees, maximum temperature as 83 degrees and the average as 71 degrees.
-![Screenshot (6)](https://user-images.githubusercontent.com/94208810/149610778-71c1712c-3688-4a47-81c3-2564b59400f3.png)
+
+![december_stats](https://user-images.githubusercontent.com/94208810/149611203-cd828cee-f830-4364-8e0f-d46c13b2a7e3.png)
 
 
 ## Deliverable 3 
 ## Summary
-The analysis of the Oahu, Hawaii weather for both June and December provided to W. Avy some solid statistical analysis—such as the mean, standard deviation, minimum, and maximum temperatures. The results were very similar for both June and December with only small difference in temperature degrees. The average temperature for both months were only 3 degrees different. It shows the consistency in weather throughout the year in Oahu. The analysis provided shows that a surf and shake shop business would be sustainable year round based on temperature.  
+The analysis of the Oahu, Hawaii weather for both June and December provided W. Avy some solid statistical analysis—such as the mean, standard deviation, minimum, and maximum temperatures. The results were very similar for both June and December with only a small difference in temperature. The average temperature for both months were only 3 degrees different. It shows the consistency in weather throughout the year in Oahu. The analysis provided shows that a surf and shake shop business would be sustainable year round based on temperature.  
