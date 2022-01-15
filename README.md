@@ -27,10 +27,12 @@ First step in analysis was to retrieve the temperature data for month of June in
 ## Summary
 The analysis of the Oahu, Hawaii weather for both June and December provided W. Avy some solid statistical analysis—such as the mean, standard deviation, minimum, and maximum temperatures. The results were very similar for both June and December with only a small difference in temperature.  The average temperature for both months were only 3 degrees different. The precipitation for June and December are very low as well. I have added to histogram charts to show this data.It shows the consistency in weather throughout the year in Oahu. The analysis provided shows that a surf and shake shop business would be sustainable year round based on temperature.
 Two additional queries to gather more weather data for June and December.
+
 1. Query for june precipitation 
-   june_precip_results = session.query(Measurement.date, Measurement.prcp).filter(extract('month',Measurement.date)==6).all()
+june_precip_results = session.query(Measurement.date, Measurement.prcp).filter(extract('month',Measurement.date)==6).all()
+
 2. Query for December precipitation
-   dec_precip_results = session.query(Measurement.date, Measurement.prcp).filter(extract('month',Measurement.date)==12).all()
+dec_precip_results = session.query(Measurement.date, Measurement.prcp).filter(extract('month',Measurement.date)==12).all()
 
 ![june_hist](https://user-images.githubusercontent.com/94208810/149611771-919b2346-67b4-4131-9798-d5084ce58bd7.png)
 ![june_precip](https://user-images.githubusercontent.com/94208810/149613811-709d62db-f97a-46a7-b397-802e10c3a8d0.png)
