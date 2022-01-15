@@ -1,6 +1,3 @@
-# surfs_up
- Surf and Shake Shack 
-Module9 Surfs Up
 # Surfs_Up
 
 
